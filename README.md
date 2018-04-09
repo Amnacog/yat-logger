@@ -22,7 +22,7 @@ logger.start('sample_timer'); //start a timer
 //do stuff 
 
 logger.stop('sample_timer'); // stop the timer
-logger.get('sample', 'ms'); //display the value of the timer (ms by default or sec)
+logger.get('sample_timer', 'ms'); //display the value of the timer (ms by default or sec)
 ```
 
 #### Basic settings
