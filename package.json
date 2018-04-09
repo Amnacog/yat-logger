@@ -1,0 +1,12 @@
+{
+  "name": "yat-logger",
+  "description": "Another tiny logger",
+  "version": "1.0",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "chalk": "~1.1.0",
+    "moment": "^2.10.3"
+  }
+}
