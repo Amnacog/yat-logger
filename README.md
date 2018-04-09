@@ -1,5 +1,5 @@
 # Yat-Logger
-## (Another tiny logger)
+## (Yet another tiny logger)
 
 I originaly created this simple logger while at an hackaton in 2015 (old-school coding) using chalk and moment.js.
 
